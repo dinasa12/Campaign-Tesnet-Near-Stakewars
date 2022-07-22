@@ -8,7 +8,7 @@ Link Dokumen Official
 - [ Instruksi Setting](https://github.com/near/stakewars-iii/blob/main/challenges/001.md)
 - [ Explorer ](https://explorer.shardnet.near.org/)
 
-Sebelum memulainya, anda dapat membeli vps di [Digital Ocean](https://www.digitalocean.com/) dengan spesifikan 4 cpu dan ram 8GB / 4cpu dan ram 16GB untuk hasil yang lebih optimal denga harga kurang lebih $56
+Sebelum memulainya, anda dapat membeli vps di [Digital Ocean](https://www.digitalocean.com/) dengan spesifikan 4 cpu dan ram 8GB / 4cpu dan ram 16GB untuk hasil yang lebih optimal dengan harga kurang lebih $56
 
 # Cara Installasi
 - Buat wallet terlebih dahulu: https://wallet.shardnet.near.org/
